@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sajjadkhan8
+- 👋 Hi, I’m Sajjad Khan (@sajjadkhan8)
 - 👀 I’m interested in Java, Spring Boot, Hibernate, Angular
 - 🌱 I’m currently learning Angular
 - 💞️ I’m looking to collaborate on ...
